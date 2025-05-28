@@ -5,10 +5,8 @@ Hey, my name is Manny Tovar, I love soccer and am a big fan of Manchester United
 I am a sophomore studying Management Information Systems and Business Analytics at DePaul University
 ## Software/Applications
 Power BI, Microsoft Office, 
-
-
 ## Technical Languages
 R, HTML, CSS, JavaScript
-## Learning Technical Languages
+## Currently Learning Technical Languages
 SQL, Python
 
